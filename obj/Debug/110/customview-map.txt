@@ -1,0 +1,34 @@
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\110\res\layout\activity_main.xml
+Button;obj\Debug\110\res\layout\activity_next.xml
+Button;obj\Debug\110\res\layout\activity_reg.xml
+cache-path;D:\idekhail\Xamarin Android\Apps\XA_MT1_1\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\110\res\values\colors.xml
+color;obj\Debug\110\res\values\ic_launcher_background.xml
+EditText;obj\Debug\110\res\layout\activity_main.xml
+EditText;obj\Debug\110\res\layout\activity_next.xml
+EditText;obj\Debug\110\res\layout\activity_reg.xml
+external-cache-path;D:\idekhail\Xamarin Android\Apps\XA_MT1_1\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\idekhail\Xamarin Android\Apps\XA_MT1_1\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+item;obj\Debug\110\res\values\styles.xml
+LinearLayout;obj\Debug\110\res\layout\activity_main.xml
+LinearLayout;obj\Debug\110\res\layout\activity_next.xml
+LinearLayout;obj\Debug\110\res\layout\activity_reg.xml
+paths;D:\idekhail\Xamarin Android\Apps\XA_MT1_1\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;obj\Debug\110\res\layout\activity_main.xml
+RelativeLayout;obj\Debug\110\res\layout\activity_next.xml
+RelativeLayout;obj\Debug\110\res\layout\activity_reg.xml
+resources;obj\Debug\110\res\values\colors.xml
+resources;obj\Debug\110\res\values\ic_launcher_background.xml
+resources;obj\Debug\110\res\values\strings.xml
+resources;obj\Debug\110\res\values\styles.xml
+string;obj\Debug\110\res\values\strings.xml
+style;obj\Debug\110\res\values\styles.xml
+TextView;obj\Debug\110\res\layout\activity_main.xml
+TextView;obj\Debug\110\res\layout\activity_next.xml
+TextView;obj\Debug\110\res\layout\activity_reg.xml

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff880e4f">
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout1"
+        android:background="#ff122e61"
+        android:layout_margin="10dp">
+        <LinearLayout
+            android:orientation="vertical"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:id="@+id/linearLayout2"
+            android:background="#ff4a148c">
+            <TextView
+                android:text="Main Page"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/address1"
+                android:textColor="#ffffffff"
+                android:textSize="30dp"
+                android:gravity="center"
+                android:textStyle="bold" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:id="@+id/linearLayout3"
+            android:background="#ff283593">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:id="@+id/yourId"
+                android:background="#ffb2ebf2"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:hint="Your Id"
+                android:textColorHint="#ff000000"
+                android:textStyle="bold"
+                android:textSize="25dp" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:id="@+id/code"
+                android:background="#ffb2ebf2"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:hint="Code"
+                android:textColorHint="#ff000000" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout4"
+            android:layout_margin="15dp"
+            android:background="#ff42a5f5"
+            android:gravity="center">
+            <LinearLayout
+                android:orientation="horizontal"
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/linearLayout5"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:background="#ff1565c0">
+                <Button
+                    android:text="Login"
+                    android:layout_width="107.5dp"
+                    android:layout_height="80dp"
+                    android:id="@+id/login"
+                    android:backgroundTint="#ff000000"
+                    android:layout_margin="10dp"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textSize="15dp" />
+                <Button
+                    android:text="Clear"
+                    android:layout_width="115.0dp"
+                    android:layout_height="80dp"
+                    android:id="@+id/clear"
+                    android:backgroundTint="#ff000000"
+                    android:layout_margin="10dp"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textSize="15dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/linearLayout6"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:background="#ff1565c0">
+                <Button
+                    android:text="New Accont"
+                    android:layout_width="107.5dp"
+                    android:layout_height="80dp"
+                    android:id="@+id/newAcount"
+                    android:backgroundTint="#ff000000"
+                    android:layout_margin="10dp"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textSize="15dp" />
+                <Button
+                    android:text="Close"
+                    android:layout_width="115.0dp"
+                    android:layout_height="80dp"
+                    android:id="@+id/close"
+                    android:backgroundTint="#ff000000"
+                    android:layout_margin="10dp"
+                    android:padding="10dp"
+                    android:textStyle="bold"
+                    android:textSize="15dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
